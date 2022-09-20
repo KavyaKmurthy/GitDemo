@@ -1,0 +1,5 @@
+# Created at 2022-08-24T00:22:44.049
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Kavya\Selenium_Training\E2EProject\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
