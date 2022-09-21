@@ -42,6 +42,8 @@ public class validateTitle extends base {
       
      // Assert.assertTrue(l.getBar().isDisplayed());
       System.out.println("This is GitX line");
+      System.out.println("Line1");
+      System.out.println("Line2");
 		
 		
 	}
