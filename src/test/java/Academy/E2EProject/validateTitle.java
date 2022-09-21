@@ -41,6 +41,7 @@ public class validateTitle extends base {
       Log.info("Correct header displayed");
       
      // Assert.assertTrue(l.getBar().isDisplayed());
+      System.out.println("This is GitX line");
 		
 		
 	}
