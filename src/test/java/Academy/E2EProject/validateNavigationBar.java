@@ -36,7 +36,7 @@ public class validateNavigationBar extends base {
       Assert.assertTrue(l.getBar().isDisplayed());
       Log.info("Navigation Bar is displayed");
       System.out.println("Navigation Bar kaansthaidhe");
-		
+      System.out.println("Navigation Bar kaansthaidhe12345");
 		
 	}
 	@AfterTest
